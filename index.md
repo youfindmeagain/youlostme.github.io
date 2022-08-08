@@ -1,6 +1,6 @@
 ## Welcome to Sky001  
 
-You visit me  @ [you find me again](https://youfindmeagain.github.io/) to get to know me
+You can visit me  @ [you find me again](https://youfindmeagain.github.io/) to get to know me
 
 ### Markdown
 
